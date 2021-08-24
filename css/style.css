@@ -1,0 +1,24 @@
+body {
+    background-color: dodgerblue;
+}
+h1 {
+    color: darkmagenta;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+p {
+    color: lime;
+    font-size: small;
+    font-family: fantasy;
+}
+strong {
+    color: red;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+em {
+    color: yellow;
+    font-size: xx-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
