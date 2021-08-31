@@ -1,0 +1,16 @@
+h1 {
+    color: grey;
+    background-color: bisque;
+}
+h2 {
+    color: steelblue;
+    font-style: italic;
+}
+.descripciones {
+    color: cornflowerblue;
+    font-style: italic;
+}
+.ingrprep {
+    color: cornflowerblue;
+    font-weight: bold;
+}
